@@ -16,5 +16,9 @@
 #
 The application is written in JavaScript and uses the Fetch API to make requests to the ProPublica Congress API. The data is then displayed using HTML and CSS. The application also uses event listeners to handle user input such as clicking on buttons and submitting search queries.
 
+# Hosted Site 
+
+The Website is hosted at this address: https://dicksonguantai.github.io/
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
